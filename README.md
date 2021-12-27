@@ -21,11 +21,9 @@ It also builds on distributed system concepts and tries to provide solutions for
 
 ## <a name="contributors"></a>Contributors
 
-* [Anil Allewar](https://www.linkedin.com/pub/anil-allewar/18/378/393)
-* [Steve Wall](https://github.com/stevewallone)
-* [Akindele Akinyemi](https://github.com/akinmail)
-* [Manmeet singh](https://github.com/1singhmanmeet)
-* [Ramazan Sakin](https://github.com/ramazansakin)
+* [Al-Mamun](https://github.com/mamun7025)
+* [Bulbul Ahmedl](https://github.com/bulbul-deploy)
+
 
 ## <a name="application-architecture"></a>Application Architecture
 
